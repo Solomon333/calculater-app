@@ -1,0 +1,53 @@
+
+
+body {
+    background: #f5eeee;
+   
+}
+.display-box{
+    background-color: rgb(247, 254, 252);
+    width: 450px;
+    padding: 25px 25px;
+    border-radius: 20px;
+    font-size: 40px;
+}
+table {
+    background-color: rgb(43, 40, 25);
+    border-style: solid;
+    margin: 0 auto;
+    padding-top: 10px;
+    margin-top: 80px;
+    border-radius: 30px;
+}
+.buttonC{
+    color: bisque;
+    width: 150px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    border-radius: 30px;
+    font-size: 40px;
+}
+.button {
+    background-color: rgb(92, 191, 142);
+    width: 150px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    border-radius: 30px;
+    font-size: 40px;
+}
+.button-sum {
+    background-color: #fb0066;
+    color: bisque;
+    width: 150px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    border-radius: 30px;
+    font-size: 40px;
+}
+
+
+
+
+
+
+ 
