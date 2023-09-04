@@ -1,4 +1,4 @@
  Calculater-App.
  
 
-- DOM manipulation. JavaScript functions.
+- JavaScript functions. DOM manipulation. 
