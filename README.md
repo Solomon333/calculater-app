@@ -1,4 +1,3 @@
  Calculater-App.
  
-
- JavaScript DOM manipulation. 
+JavaScript DOM manipulation. 
