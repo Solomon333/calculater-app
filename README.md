@@ -1,2 +1,3 @@
  Calculater
- -App: JavaScript DOM manipulation
+ -App:
+ JavaScript DOM manipulation
